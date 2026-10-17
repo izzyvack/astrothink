@@ -1,0 +1,216 @@
+{
+  "name": "AstroThink",
+  "email": "shlok@astrothink.flyingminds.org",
+  "instagram": "https://www.instagram.com/astrothinkfm/",
+  "portal": "https://astrothink.flyingminds.org/",
+  "team": [
+    {
+      "name": "Maya Sharma",
+      "role": "Co-Founder",
+      "school": "Neuqua Valley High School",
+      "photo": "maya.webp",
+      "bio": "Maya is a senior at Neuqua Valley, a 2023 Congressional App Challenge winner, and a TEDxBolingbrookYouth speaker. She helps students explore coding and space science through AstroThink."
+    },
+    {
+      "name": "Anwita Vemana",
+      "role": "Co-Founder",
+      "school": "Neuqua Valley High School",
+      "photo": "anwita.webp",
+      "bio": "Anwita is a senior at Neuqua Valley and a Rocket Club team captain who has participated in the American Rocketry Challenge. Her interests include aerospace and engineering design."
+    },
+    {
+      "name": "Deetya Chundru",
+      "role": "AI Curriculum",
+      "school": "Illinois Mathematics and Science Academy",
+      "photo": "deetya.webp",
+      "bio": "Deetya is a sophomore at IMSA interested in artificial intelligence and teaching younger students to create, experiment, and solve problems."
+    },
+    {
+      "name": "Aaryan Menezes",
+      "role": "YouTube Channel Head",
+      "school": "Westview High School",
+      "photo": "aaryan.webp",
+      "bio": "Aaryan is a junior at Westview interested in aerospace engineering. He shares AstroThink concepts through the team's YouTube channel."
+    },
+    {
+      "name": "Mirna Manoji",
+      "role": "Space Curriculum Development",
+      "school": "Waubonsie Valley High School",
+      "photo": "mirna.webp",
+      "bio": "Mirna is a sophomore at Waubonsie Valley with interests in mathematics and aerospace. She competes in math competitions and develops space science lessons."
+    },
+    {
+      "name": "Ishika Vakharia",
+      "role": "AI Curriculum Development",
+      "school": "Illinois Mathematics and Science Academy",
+      "photo": "ishika-v.webp",
+      "bio": "Ishika is a junior at IMSA interested in physics, math, and their applications. She develops AI curriculum and participates in FIRST Tech Challenge robotics, badminton, and viola."
+    },
+    {
+      "name": "Shivani Kaushal",
+      "role": "Space Curriculum Development",
+      "school": "High school junior",
+      "photo": "shivani.webp",
+      "bio": "Shivani is interested in aerospace, rocketry, and drones. She enjoys building, testing, and flying, along with classical dance and 3D printing."
+    },
+    {
+      "name": "Sai",
+      "role": "Engineering & AI",
+      "school": "Neuqua Valley High School",
+      "photo": "sai.webp",
+      "bio": "Sai is a junior at Neuqua Valley interested in aviation, engineering design, and machine learning, with experience in Robotics, Math Team, and Rocket Club."
+    },
+    {
+      "name": "Sruthi Madduri",
+      "role": "AI & Space Education",
+      "school": "Neuqua Valley High School",
+      "photo": "sruthi.webp",
+      "bio": "Sruthi is a freshman at Neuqua Valley interested in space exploration and artificial intelligence, from questions at the cellular scale to the astronomical scale."
+    },
+    {
+      "name": "Dhathri Madupathi",
+      "role": "STEM Outreach",
+      "school": "Neuqua Valley High School",
+      "photo": "dhathri.webp",
+      "bio": "Dhathri is a freshman at Neuqua Valley who enjoys technology, problem-solving, and helping younger students explore new ideas."
+    }
+  ],
+  "programs": [
+    {
+      "slug": "space-ai",
+      "title": "Space & AI",
+      "short": "Students explore space science and artificial intelligence through practical activities.",
+      "description": "Our core program brings space science and artificial intelligence to younger students through hands-on activities, demonstrations, and projects. Students explore ideas by making things and trying them out.",
+      "audience": "Elementary & middle school",
+      "format": "In person",
+      "filter": [
+        "younger",
+        "in-person"
+      ],
+      "status": "Contact us for session information",
+      "location": "Naperville-area schools & community spaces",
+      "length": "Varies by location",
+      "cost": "Ask about the next session",
+      "topics": [
+        {
+          "name": "Space science",
+          "text": "Explore rockets, parachutes, and the engineering behind space exploration."
+        },
+        {
+          "name": "Artificial intelligence",
+          "text": "Get a first look at how computers learn from information and how people use AI."
+        },
+        {
+          "name": "Hands-on projects",
+          "text": "Build, test, and change a design to see what happens."
+        }
+      ],
+      "note": "Programs have included sessions at Welch Elementary and the Alive Center. Ages, dates, and cost depend on the location. Contact the team for the next available session."
+    },
+    {
+      "slug": "python-neural-networks",
+      "title": "Python & Neural Networks",
+      "short": "High school students learn Python and the basics of neural networks.",
+      "description": "A beginner-friendly introduction to Python and the ideas behind neural networks. Across four sessions, high school students move from core programming concepts to exploring an AI project.",
+      "audience": "Grades 9–12",
+      "format": "Online",
+      "filter": [
+        "high-school",
+        "online"
+      ],
+      "status": "Summer 2026 session concluded",
+      "location": "Online via Zoom",
+      "length": "4 sessions",
+      "cost": "Free",
+      "dates": "July 1–22, 2026",
+      "schedule": "Wednesdays, 4:30–6:30 PM CT",
+      "topics": [
+        {
+          "name": "Python foundations",
+          "text": "Get comfortable writing code and working with core Python concepts."
+        },
+        {
+          "name": "Python libraries",
+          "text": "Explore tools that help you work with data and build projects."
+        },
+        {
+          "name": "Neural networks",
+          "text": "Understand the basic ideas behind how an AI system learns."
+        },
+        {
+          "name": "An AI project",
+          "text": "Bring the ideas together in a beginner-level project."
+        }
+      ],
+      "note": "The listed dates are from the completed Summer 2026 camp. Contact AstroThink to ask about future sessions. No prior coding experience was required."
+    },
+    {
+      "slug": "beyond-the-stethoscope",
+      "title": "Beyond the Stethoscope",
+      "short": "Middle school students explore healthcare careers, the immune system, and new medical technology.",
+      "description": "A three-session healthcare exploration program created with Aurora Public Library. Students explore healthcare careers, the body's defenses, and new medical technology through case studies and group problem-solving.",
+      "audience": "Rising grades 6–9",
+      "format": "In person",
+      "filter": [
+        "younger",
+        "in-person"
+      ],
+      "status": "Summer 2026 session concluded",
+      "location": "Aurora Public Library",
+      "length": "3 sessions",
+      "cost": "Free",
+      "dates": "July 22, August 7 & August 14, 2026",
+      "schedule": "2:00–3:30 PM CT",
+      "topics": [
+        {
+          "name": "Inside healthcare",
+          "text": "Explore healthcare settings, the people who work in them, and a patient's journey through care."
+        },
+        {
+          "name": "The science of staying healthy",
+          "text": "Learn about bacteria, viruses, and the immune system, then work through a case study."
+        },
+        {
+          "name": "The future of medicine",
+          "text": "Explore new technology, AI, and machine learning in medicine before presenting a final case study."
+        }
+      ],
+      "note": "The Summer 2026 program was held in the Teen Programming Room at Aurora Public Library. The listed session has concluded; contact the team about future programs."
+    },
+    {
+      "slug": "career-pathways",
+      "title": "Career Pathways",
+      "short": "Students meet guest speakers and ask questions about their work and education.",
+      "description": "A five-week speaker program for students thinking about high school and what comes next. Guests share their work and answer questions about different fields, including engineering, law, research, and writing.",
+      "audience": "Grades 7–9",
+      "format": "In person",
+      "filter": [
+        "younger",
+        "high-school",
+        "in-person"
+      ],
+      "status": "Summer 2026 session concluded",
+      "location": "95th Street Library, Naperville",
+      "length": "5 sessions",
+      "cost": "Free",
+      "dates": "June 24–July 22, 2026",
+      "schedule": "Wednesdays, 5:30–7:00 PM CT",
+      "topics": [
+        {
+          "name": "Different fields",
+          "text": "Hear about the daily work behind careers you may have considered, and discover others."
+        },
+        {
+          "name": "Real conversations",
+          "text": "Ask guest speakers about their experiences, decisions, and routes into their fields."
+        },
+        {
+          "name": "Your own interests",
+          "text": "Use what you hear to think about the subjects and opportunities you want to explore."
+        }
+      ],
+      "note": "These details describe the completed Summer 2026 program at the 95th Street Library. Contact the team to ask about the next series."
+    }
+  ],
+  "site_url": ""
+}
